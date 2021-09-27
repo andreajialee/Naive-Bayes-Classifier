@@ -1,1 +1,0 @@
-Creating a naive bayes algorithm
